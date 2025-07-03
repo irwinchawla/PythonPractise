@@ -1,3 +1,0 @@
-Hello,L1
-Hello,L2
-Hello,L3
